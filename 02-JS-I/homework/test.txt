@@ -1,0 +1,19 @@
+*VARIABLE: una variable es un valor que almacena otro valor puede ser un numero, una letra,
+ una palabra o mas de una, o un valor booleano(verdadero/falso) dentro de si ocupando un 
+ espacio en la memoria de la computadora;
+*STRINGS: conjunto de letras y a su vez conjunto de palabras, siempre se escribe entre " "(comillas dobles)
+' '(comillas simples); 
+ * Funciones (argumentos, `return`): porcion de codigo que realiza una tarea
+ son reutilizables, ya que cuenta con parametros()donde puedes almacenar datos llamados
+ argumentos que van a ser utilizados en la tarea.
+ El return: devuelve el resultado final de la funcion y la da por finalizada.
+
+ *DECLARACIONES IF: son similares a las funciones, ya que lleva dentro
+  una tarea que debe cumplirse. Solo se cumple si la condicion es verdadera sino
+  ocurre otra cosa
+
+*VALORES BOOLEANOS: es el valor que se le asigna a un dato dependiendo del contexto en el que este
+si es verdadero o es falso. True / False (sin comillas) 
+
+
+ 
